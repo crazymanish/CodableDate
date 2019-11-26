@@ -16,6 +16,10 @@ The problem arises when we get a JSON with different date formats, like this one
 ### Step3: Let's define different style date formatters, based on input JSON
 ![](https://user-images.githubusercontent.com/5364500/69674287-71e50b00-109c-11ea-9a07-06ad8f96c02b.png)
 
+## Show time! 🔨
+Let's test it, in playground
+![](https://user-images.githubusercontent.com/5364500/69674528-ef108000-109c-11ea-8eb4-0e54bab8ec10.png)
+
 ---
 ### Tools Version
 - Xcode 11.1
