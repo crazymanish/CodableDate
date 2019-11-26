@@ -1,4 +1,4 @@
-import UIKit
+import Foundation
 
 let json = """
 {
@@ -12,8 +12,8 @@ let json = """
 struct User: Codable {
     let name: String
     let country: String
-    let dob: CodableDate<yyyyMMddDateFormatter>
-    let updated: CodableDate<iso8601DateFormatter>
+    let dob: CodableDate<YYYYMMDDDateFormatter>
+    let updated: CodableDate<ISO8601CalenderDateFormatter>
 }
 
 do {

@@ -4,7 +4,7 @@ public protocol CodableDateFormatter {
     static var dateFormatter: DateFormatter { get }
 }
 
-public struct iso8601DateFormatter: CodableDateFormatter {
+public struct ISO8601CalenderDateFormatter: CodableDateFormatter {
     public static var dateFormatter: DateFormatter {
         let formatter = DateFormatter()
         formatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ss.SSSZZZZZ"
@@ -14,7 +14,7 @@ public struct iso8601DateFormatter: CodableDateFormatter {
     }
 }
 
-public struct yyyyMMddDateFormatter: CodableDateFormatter {
+public struct YYYYMMDDDateFormatter: CodableDateFormatter {
     public static var dateFormatter: DateFormatter {
         let formatter = DateFormatter()
         formatter.dateFormat = "yyyy-MM-dd"
