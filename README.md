@@ -20,6 +20,9 @@ The problem arises when we get a JSON with different date formats, like this one
 Let's test it, in playground
 ![](https://user-images.githubusercontent.com/5364500/69674528-ef108000-109c-11ea-8eb4-0e54bab8ec10.png)
 
+### Output is: 🙌🏻💪🏻
+![](https://user-images.githubusercontent.com/5364500/69674750-6cd48b80-109d-11ea-8b0e-033267fc7fbb.png)
+
 ---
 ### Tools Version
 - Xcode 11.1
