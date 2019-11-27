@@ -14,11 +14,11 @@ The problem arises when we get a JSON with different date formats, like this one
 ![](https://user-images.githubusercontent.com/5364500/69674068-03a04880-109c-11ea-92d5-fac15e5bb164.png)
 
 ### Step3: Let's define different style date formatters, based on input JSON
-![](https://user-images.githubusercontent.com/5364500/69674287-71e50b00-109c-11ea-9a07-06ad8f96c02b.png)
+![](https://user-images.githubusercontent.com/5364500/69714326-84942a00-1106-11ea-94b5-c4133c5ce91d.png)
 
 ## Show time! 🔨
 Let's test it, in playground
-![](https://user-images.githubusercontent.com/5364500/69674528-ef108000-109c-11ea-8eb4-0e54bab8ec10.png)
+![](https://user-images.githubusercontent.com/5364500/69714438-aee5e780-1106-11ea-9c16-63403ad888e8.png)
 
 ### Output is: 🙌🏻💪🏻
 ![](https://user-images.githubusercontent.com/5364500/69674750-6cd48b80-109d-11ea-8b0e-033267fc7fbb.png)
